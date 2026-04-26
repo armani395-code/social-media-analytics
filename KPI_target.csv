@@ -1,0 +1,10 @@
+platform,kpi_metric,target_value,actual_value,month,status
+Instagram,Avg Engagement Rate,15,17.2,June,✅ Met
+TikTok,Avg Engagement Rate,20,23.5,June,✅ Met
+YouTube,Avg Engagement Rate,12,10.8,June,❌ Not Met
+Instagram,Avg Engagement Rate,15,16.8,July,✅ Met
+TikTok,Avg Engagement Rate,20,25.1,July,✅ Met
+YouTube,Avg Engagement Rate,12,13.2,July,✅ Met
+Instagram,Avg Engagement Rate,15,18.5,August,✅ Met
+TikTok,Avg Engagement Rate,20,27.3,August,✅ Met
+YouTube,Avg Engagement Rate,12,11.5,August,❌ Not Met
